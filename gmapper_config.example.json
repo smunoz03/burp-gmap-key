@@ -1,0 +1,16 @@
+{
+  "cost_threshold": 5.0,
+  "google_service_account_key": null,
+  "enable_caching": true,
+  "cache_ttl": 3600,
+  "request_timeout": 5,
+  "max_retries": 3,
+  "log_level": "INFO",
+  "create_issues": true,
+  "issue_severity_unrestricted": "High",
+  "issue_severity_expensive": "Medium",
+  "monitored_tools": ["proxy"],
+  "excluded_hosts": [],
+  "pricing_overrides": {},
+  "report_format": "table"
+}
